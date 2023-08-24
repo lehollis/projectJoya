@@ -1,0 +1,31 @@
+{
+    "type": "APL",
+    "version": "2023.2",
+    
+    "trailerData":[
+        {
+            "movieName": "Big Buck Bunny",
+            "trailerURL": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        },
+        {
+            "movieName": "Elephant Dream",
+            "trailerURL": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"           
+        },
+        {
+            "movieName": "Sintel",
+            "trailerURL": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"           
+        },
+        {
+            "movieName": "Tears of Steel",
+            "trailerURL": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"           
+        },
+        {
+            "movieName": "For Bigger Fun",
+            "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+        }
+        ],
+        
+    "watchlist": []
+    
+}
+
